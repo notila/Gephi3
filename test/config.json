@@ -34,6 +34,7 @@
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
       "labelThreshold": 5,
+      "labelSize": "proportional",
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
