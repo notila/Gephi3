@@ -8,9 +8,9 @@
     "text": "FCBA"
   },
   "text": {
-    "more": "Reseau biopolymeres - Metdodes analytiques",
-    "intro": "Reseau biopolymeres - Metdodes analytiques",
-    "title": "Reseau biopolymeres - Metdodes analytiques"
+    "more": "Reseau biopolymeres - Methodes analytiques",
+    "intro": "Reseau biopolymeres - Methodes analytiques",
+    "title": "Reseau biopolymeres - Methodes analytiques"
   },
   "legend": {
     "edgeLabel": "Lien",
@@ -42,8 +42,8 @@
     "graphProperties": {
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minNodeSize": 2,
+      "maxNodeSize": 10
     },
     "mouseProperties": {
       "maxRatio": 20,
