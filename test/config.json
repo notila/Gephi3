@@ -39,7 +39,7 @@
       "defaultLabelSize": 18
     },
     "graphProperties": {
-      "maxEdgeSize": 1.5,
+      "maxEdgeSize": 3,
       "minEdgeSize": 0.2,
       "minNodeSize": 3,
       "maxNodeSize": 45
